@@ -37,8 +37,8 @@ Desktop + API system to manage domestic plant care. Tracks watering state and ca
 ## 📊 GitHub Stats
  
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=runallena11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runallena11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucia-zurdo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-zurdo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
  
 ---
