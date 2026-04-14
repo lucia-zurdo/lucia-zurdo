@@ -24,7 +24,7 @@ Currently finishing a Higher Degree in Multiplatform Application Development (DA
  
 ## 🗂️ Featured Projects
  
-### 🧾 [Onyx — Business Management System](https://github.com/runallena11/onyx-api)
+### 🧾 [Practice-ERP — Business Management System](https://github.com/runallena11/onyx-api)
 Full-stack ERP for managing clients, suppliers, articles and purchase/sales invoicing with real billing logic (VAT, IRPF, discounts, due dates). Auth0 authentication.
 `ASP.NET Core` · `EF Core` · `SQL Server` · `React + TS` · `Auth0`
  
