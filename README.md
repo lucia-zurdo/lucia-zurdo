@@ -21,13 +21,11 @@ Currently finishing a Higher Degree in Multiplatform Application Development (DA
  
 ## 🗂️ Featured Projects
  
-### 🧾 [Practice-ERP — Business Management System](https://github.com/runallena11/onyx-api)
+### 🧾 ERP — Business Management System
 Full-stack ERP for managing clients, suppliers, articles and purchase/sales invoicing with real billing logic (VAT, IRPF, discounts, due dates). Auth0 authentication.
 `ASP.NET Core` · `EF Core` · `SQL Server` · `React + TS` · `Auth0`
- 
-### 🌿 [PlantCare — Home Plant Care Manager](https://github.com/runallena11/FP-Project-API)
-Desktop + API system to manage domestic plant care. Tracks watering state and calculates next watering dates automatically. Clean client-server architecture.
-`ASP.NET Core` · `EF Core` · `SQLite` · `WPF` · `MVVM`
+- [API (ASP.NET Core · EF Core · SQL Server)](https://github.com/lucia-zurdo/ERP-API-Practice)
+- [Client (React · TypeScript · Auth0)](https://github.com/lucia-zurdo/ERP-Client-Practice)
 
 ---
  
