@@ -7,15 +7,14 @@ Software Developer with an analytical and systems-oriented mindset, interested i
 ---
  
 ## 🛠️ Tech Stack
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -31,8 +30,8 @@ Full-stack ERP for managing clients, suppliers, articles and purchase/sales invo
 ### 🌿 PlantCare — Home Plant Care Manager
 Desktop + API system to manage domestic plant care. Tracks watering state and calculates next watering dates automatically. Clean client-server architecture.
 `ASP.NET Core` · `EF Core` · `SQLite` · `WPF` · `MVVM`
-- [API (ASP.NET Core · EF Core · SQLite)](https://github.com/runallena11/FP-Project-API)
-- [Client (WPF)](https://github.com/runallena11/FP-Project-Client)
+- [API (ASP.NET Core · EF Core · SQLite)](https://github.com/lucia-zurdo/PlantCare-API)
+- [Client (WPF)](https://github.com/lucia-zurdo/PlantCare-WPF)
 
 ---
  
